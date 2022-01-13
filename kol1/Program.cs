@@ -1,4 +1,6 @@
-﻿using System;
+//autor: Kozicki Paweł
+
+using System;
 
 namespace zadania{
     public enum elementy {
